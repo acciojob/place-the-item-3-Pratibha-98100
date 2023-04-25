@@ -18,6 +18,8 @@
 
 .holder{
 	justify-content:space-evenly;
+  display: flex;  
+  flex-wrap: wrap;
 }
 
 
