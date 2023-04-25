@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+}
+
+.container < div{
+	border: 2px solid black;
+	color:pink;
+}
+
+
+.div1,.div2,.div3,.div4,.div5,.div6{
+	border: 2px solid black;
+	height: 200px;
+    width:200px;
+}
